@@ -1,0 +1,16 @@
+﻿Quantities
+ActualArrivals
+ActualExpeditedArrivals
+ActualInventory
+ActualItemsReceivedQuantity
+CalculatedConsumption
+InventoryDaysOnHand
+LatestDateForDemandForecast
+LatestDemandForecast
+Miscellaneous
+PendingArrivalsPastDue
+QuantityUncertaintySupplySide
+SafetyStock
+TimeUncertaintySupplySide
+TotalNetInventory
+UnrestrictedBlocked
